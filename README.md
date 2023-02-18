@@ -2,4 +2,4 @@
 
 This is my implementation of the game 2048 on the android platform.
 
-![]image.jpg
+![]github.com/evanessia/android-game-2048/image.jpg
